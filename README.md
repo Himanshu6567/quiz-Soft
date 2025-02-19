@@ -44,7 +44,7 @@ Quiz Soft is a dynamic and interactive quiz application built using React.js. It
 
 ```bash
 
-git clone https://github.com/himanshu76/quiz-soft.git
+git clone https://github.com/Himanshu6567/quiz-Soft
 
 cd quiz-soft
 
@@ -118,7 +118,7 @@ Feel free to fork the repo and submit pull requests for improvements.
 
 ## Live Demo
 
-Check out the deployed app here: [link](Link)
+Check out the deployed app here: [https://quiz-soft-himanshu6567s-projects.vercel.app/](https://quiz-soft-himanshu6567s-projects.vercel.app/)
 
   
   
